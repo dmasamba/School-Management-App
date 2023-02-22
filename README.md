@@ -8,7 +8,7 @@ My teammates and I wanted to create something that would be useful to students, 
    
 Once launched, the user will be redirected to the home page where he can choose to add a course by clicking on the “ADD A COURSE” button and add an assignment by clicking on the “ADD ASSIGNMENT” button. Students will enter course or assignment descriptions and click the "Add Course" or "Add Assignment" buttons respectively. Once courses and assignments are added, they will be saved in the app's database and the student can access them at any time using the navigation bar at the bottom of the homepage. 
 
-Please see below a demo of the app
+See below a demo of the app
 
 
 https://user-images.githubusercontent.com/103907426/220515270-8db164df-d9f1-4530-8d5d-f835a933f120.mp4
