@@ -10,7 +10,8 @@ Once launched, the user will be redirected to the home page where he can choose 
 
 Please see below a demo of the app
 
-(place video here)
+
+https://user-images.githubusercontent.com/103907426/220515270-8db164df-d9f1-4530-8d5d-f835a933f120.mp4
 
 ## Future works
 
